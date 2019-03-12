@@ -1,0 +1,14 @@
+{
+	"name": "Obaazar",
+    "description": "Online grocery shop",
+    "keywords": ["ecommerce","online shop","Obaazar"],
+    "type": "project",
+	"autoload":{
+		"classmap":[
+			"app/model"
+		]
+	},
+	"require": {
+		"dompdf/dompdf": "^0.8.3"
+	}
+}
